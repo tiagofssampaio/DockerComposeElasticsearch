@@ -1,5 +1,5 @@
 server:
-  name: "elk"
+  name: "elastic-cluster"
   host: "0.0.0.0"
   port: 5601
   basePath: /kibana
